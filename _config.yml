@@ -1,4 +1,4 @@
-title:            Critter Starter
+title:            Crittergo
 description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname: 
@@ -13,7 +13,7 @@ owner:
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook:       facebook.com/crittergo
   github:         
   stackexchange:  
   linkedin:       
