@@ -143,15 +143,16 @@
 
 @media (max-width:480px) {
 	.jumbotron {
-		height:150px;
-		background-size: 100% auto
+		height:360px;
+		background:url("../../images/hero-dog-square.jpg") no-repeat 0 0;
+		background-position: right;
 	}
 }
 
 @media (max-width:360px) {
 	.jumbotron {
 		height:360px;
-		width:360px;
 		background:url("../../images/hero-dog-square.jpg") no-repeat 0 0;
+		background-position: right;
 	}
 }
