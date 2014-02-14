@@ -156,3 +156,17 @@
 		background-position: right;
 	}
 }
+
+
+body {
+	border: 0;
+}
+
+.navigation-wrapper ul {
+	display: block;
+	padding: 10px 20px;
+	background-color: #f57376;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
