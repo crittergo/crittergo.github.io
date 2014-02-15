@@ -7,19 +7,8 @@ image:
   feature: hero-animals.jpg
 ---
 
-<ul class="tag-box inline">
-{% assign tags_list = site.categories %}  
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-    	<li><a href="#{{ categories }}">{{ categories }} <span>{{ site.categories[category].size }}</span></a></li>
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %} 
-    	<li><a href="#{{ categories[0] }}">{{ category[0] }} <span>{{ category[1].size }}</span></a></li>
-    {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
-</ul>
+{% assign blog_categories = site.categories['blog'] | filter_categories_by_primary_category %}
+{% for category in blog_categories %}{% endfor %}
 
 
 
