@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-<img src="IMAGE.JPG" class="img-post">
+<img src="/images/IMAGE.jpg" class="img-post">
 
 One of the cutest and most engaging small animals that you can 
 
