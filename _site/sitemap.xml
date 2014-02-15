@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>crittergo.com</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>crittergo.com/articles/hamster/</loc>
+        <loc>/articles/hamster/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/code-highlighting-post/</loc>
+        <loc>/articles/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/sample-link-post/</loc>
+        <loc>/articles/sample-link-post/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/video-post/</loc>
+        <loc>/articles/video-post/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/readability-feature-post/</loc>
+        <loc>/articles/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/sample-post-images/</loc>
+        <loc>/articles/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/readability-post/</loc>
+        <loc>/articles/readability-post/</loc>
     </url>
     
     <url>
-        <loc>crittergo.com/articles/sample-post/</loc>
+        <loc>/articles/sample-post/</loc>
     </url>
     
 </urlset>
