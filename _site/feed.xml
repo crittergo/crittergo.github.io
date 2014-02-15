@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-02-15T00:40:58-08:00</updated>
+<updated>2014-02-15T01:19:26-08:00</updated>
 <id>/</id>
 <author>
   <name>Crittergo</name>
@@ -56,6 +56,7 @@ forming. Typically, you should take your rabbit for a checkup once every year. L
 
 &lt;p&gt;Rabbits should be brushed often to help maintain their fur. When picking your rabbit up, support its rear as well as its head.&lt;/p&gt;
 
+
   &lt;p&gt;&lt;a href=&quot;/small%20animal/rabbit/&quot;&gt;Rabbit&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 14, 2014.&lt;/p&gt;</content>
 </entry>
 
@@ -95,73 +96,103 @@ forming. Typically, you should take your rabbit for a checkup once every year. L
 
 
 <entry>
-  <title type="html"><![CDATA[Hamsters]]></title>
-  <link rel="alternate" type="text/html" href="/articles/hamster/"/>
-  <id>/articles/hamster</id>
-  <published>2014-02-11T00:00:00-08:00</published>
-  <updated>2014-02-11T00:00:00-08:00</updated>
+  <title type="html"><![CDATA[Chameleon]]></title>
+  <link rel="alternate" type="text/html" href="/reptile/chameleon/"/>
+  <id>/reptile/chameleon</id>
+  <updated>2014-02-14T00:00:00-00:00</updated>
+  <published>2014-02-14T00:00:00-08:00</published>
+  
   <author>
     <name>Crittergo</name>
     <uri></uri>
     <email>crittergo@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/chameleon-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
+&lt;p&gt;Many people like the idea of a chameleon as a pet due to their ability to change colors. 
+Chameleons are hardy, and don’t require a great deal of care. However, they aren’t 
+particularly playful or cuddly, and they should not be handled regularly, so for pet owners 
+who want more interaction, they aren’t the best choice.&lt;/p&gt;
 
-&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+&lt;h2 id=&quot;shelter&quot;&gt;Shelter&lt;/h2&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;Chameleons need fairly large aquariums that are well ventilated; ideally made out 
+of screen as opposed to glass. The cage should be lined with a light bedding, like 
+newspaper or paper towels. Things like sand or gravel are not good ideas, as the 
+chameleons may eat it and have health problems. A heat lamp is also required for 
+chameleons. It’s important for the cage to contain live plants, branches, and other 
+similar item so the chameleons are able to climb and exercise.&lt;/p&gt;
 
-&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
+&lt;h2 id=&quot;diet&quot;&gt;Diet&lt;/h2&gt;
 
-&lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
+&lt;p&gt;Chameleons can eat a wide range of different types of foods, from insects such as 
+crickets or worms, to various plants, including lettuce, flowering plants, dandelion leaves, 
+and carrots. Insects that are too large could be difficult to digest.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;half&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;activityexercise&quot;&gt;Activity/Exercise&lt;/h2&gt;
+&lt;p&gt;Chameleons can become stressed if they are handled too much. However, while 
+cleaning the cage, owners can give chameleons time to explore and climb. A small, 
+enclosed, alternate cage can be used to give the chameleon more space during 
+cleaning.&lt;/p&gt;
 
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+&lt;h2 id=&quot;health&quot;&gt;Health&lt;/h2&gt;
 
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;Chameleons are prone to getting dehydrated, so it’s a good idea to regularly mist the 
+cage with a water bottle to keep the enclosure moist. A dehydrated chameleon may 
+have closed or sunken eyes. Be sure the chameleon is getting regular water. By misting 
+regularly, you can ensure your chameleon has plenty of water, as misting allows for 
+water droplets to form on the plants in the cage for the chameleon to drink. A clean 
+spray bottle is the easiest way to keep water in the cage.&lt;/p&gt;
 
-&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
+&lt;h2 id=&quot;grooming&quot;&gt;Grooming&lt;/h2&gt;
 
-&lt;p&gt;Apply the &lt;code&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
+&lt;p&gt;Chameleons do not require any significant cleaning or groom, and in fact, handling of &lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;third&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;chameleons should be limited. They are extremely low maintenance in this respect.&lt;/p&gt;
 
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
 
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;p&gt;&lt;a href=&quot;/reptile/chameleon/&quot;&gt;Chameleon&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 14, 2014.&lt;/p&gt;</content>
+</entry>
 
-  &lt;p&gt;&lt;a href=&quot;/articles/hamster/&quot;&gt;Hamsters&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 11, 2014.&lt;/p&gt;</content>
+
+<entry>
+  <title type="html"><![CDATA[Hamster]]></title>
+  <link rel="alternate" type="text/html" href="/small%20animal/hamster/"/>
+  <id>/small%20animal/hamster</id>
+  <updated>2014-02-14T00:00:00-00:00</updated>
+  <published>2014-02-11T00:00:00-08:00</published>
+  
+  <author>
+    <name>Crittergo</name>
+    <uri></uri>
+    <email>crittergo@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/hamster-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to own a small pet, a hamster is a good place to start. They require minimal care when in a comfortable environment. They are nocturnal and prefer to live alone. &lt;/p&gt;
+
+&lt;h2 id=&quot;shelter&quot;&gt;Shelter&lt;/h2&gt;
+
+&lt;p&gt;There are many styles of shelter for your hamster, from cages, aquariums, to intricate habitats with a number of tubes to crawl through. Once you’ve chosen the a type of housing, you will need to fill it with bedding to keep the environment dry and keep odor under control.  &lt;/p&gt;
+
+&lt;h2 id=&quot;diet&quot;&gt;Diet&lt;/h2&gt;
+
+&lt;p&gt;Store-bought hamster foods include a mixture of seeds and grains. For added variety, you can supplement with fresh nuts, fruits and vegetables a couple times a week. Avoid onions, candy, chocolate, large beans, rhubarb or raw potatoes. Always have have plenty of fresh water in a suspended rodent drinking bottle.&lt;/p&gt;
+
+&lt;h2 id=&quot;activityexercise&quot;&gt;Activity/Exercise&lt;/h2&gt;
+
+&lt;p&gt;Hamsters like to burrow and exercise. A shelter with tubes and spaces to hide in and a wheel to run around will keep your hamster happy and healthy.&lt;/p&gt;
+
+&lt;h2 id=&quot;health&quot;&gt;Health&lt;/h2&gt;
+
+&lt;p&gt;While hamsters are normally quite hardy, small injuries or illnesses can complicate quickly. If you find signs such as loss of appetite, sneezing, discharge from the nose or eyes, wheezing, wetness around the tail, hair loss, or diarrhea you should consider a trip to the vet. &lt;/p&gt;
+
+&lt;h2 id=&quot;grooming&quot;&gt;Grooming&lt;/h2&gt;
+
+&lt;p&gt;Your hamster cage will require touching up or bedding replacement. If you notice stronger odors, consider cleaning more frequently. 
+Unless your hamster has something sticky in its fur, it should never have a bath in water. Fill a small bowl with chinchilla bath sand made from volcanic ash and place it in the cage. The hamster will instinctively roll around in it to clean itself off. Make sure that the sand you purchase is dust-free to prevent respiratory issues. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/small%20animal/hamster/&quot;&gt;Hamster&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 

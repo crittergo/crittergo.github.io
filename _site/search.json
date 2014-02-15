@@ -17,9 +17,17 @@
 		} ,
 	
 		{
-		  "title"      : "Hamsters",
-		  "category"   : "articles",
-		  "url"        : "/articles/hamster/",
+		  "title"      : "Chameleon",
+		  "category"   : "Reptile",
+		  "url"        : "/reptile/chameleon/",
+		  "date"       : "2014-02-14 00:00:00 -0800",
+		  "shortdate"  : "February 14, 2014"
+		} ,
+	
+		{
+		  "title"      : "Hamster",
+		  "category"   : "small animal",
+		  "url"        : "/small%20animal/hamster/",
 		  "date"       : "2014-02-11 00:00:00 -0800",
 		  "shortdate"  : "February 11, 2014"
 		} ,
