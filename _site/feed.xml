@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-02-14T23:45:11-08:00</updated>
+<updated>2014-02-15T00:40:58-08:00</updated>
 <id>/</id>
 <author>
   <name>Crittergo</name>
@@ -25,7 +25,9 @@
     <uri></uri>
     <email>crittergo@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;One of the cutest and most engaging small animals that you can own is a rabbit. Domesticated rabbits vary in looks and personality, 
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/rabbit-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the cutest and most engaging small animals that you can own is a rabbit. Domesticated rabbits vary in looks and personality, 
 each with their own benefits. &lt;/p&gt;
 
 &lt;h2 id=&quot;shelter&quot;&gt;Shelter&lt;/h2&gt;
@@ -70,7 +72,7 @@ forming. Typically, you should take your rabbit for a checkup once every year. L
     <uri></uri>
     <email>crittergo@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;IMAGE.JPG&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/IMAGE.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the cutest and most engaging small animals that you can &lt;/p&gt;
 
