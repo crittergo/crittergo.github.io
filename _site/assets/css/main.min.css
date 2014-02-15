@@ -180,6 +180,32 @@ h1.title {
 
 }
 
+.search-wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 23%;
+	top: 66px;
+}
+
+.img-post {
+	width:640px;
+	height:250px;
+}
+
+entry-title {
+	
+}
+
+.entry-feature-image {
+margin-top: 0px;
+}
+
+@media only screen and (min-width: 48em)
+.entry-feature-image {
+margin-top: 0;
+}
+
 @media (min-width:1320px){
 	.jumbotron {
 		background-size: 100% auto;
@@ -241,19 +267,4 @@ h1.title {
 	}
 }
 
-.search-wrapper {
-	width: 80%;
-	margin-right: auto;
-	margin-left: auto;
-	padding-left: 23%;
-	top: 66px;
-}
 
-.img-post {
-	width:640px;
-	height:250px;
-}
-
-entry-title {
-	
-}
