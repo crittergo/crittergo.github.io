@@ -34,8 +34,8 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Categories
-    url: /categories/
+  - title: Animals
+    url: /animals/
   - title: Submit
     url: /submit/
 
