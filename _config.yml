@@ -4,16 +4,16 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              crittergo.com
+url:              crittergo.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Crittergo
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          crittergo@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       facebook.com/crittergo
+  facebook:       crittergo
   github:         
   stackexchange:  
   linkedin:       
