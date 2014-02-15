@@ -10,7 +10,7 @@
     </url>
     
     <url>
-        <loc>/small%20animal/crittergo-guide-template/</loc>
+        <loc>/small%20animals/hedgehog/</loc>
     </url>
     
     <url>
@@ -18,35 +18,11 @@
     </url>
     
     <url>
+        <loc>/cats/cat/</loc>
+    </url>
+    
+    <url>
         <loc>/small%20animal/hamster/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/code-highlighting-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/sample-link-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/video-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/readability-feature-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/sample-post-images/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/readability-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/sample-post/</loc>
     </url>
     
 </urlset>
