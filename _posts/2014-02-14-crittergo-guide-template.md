@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Rabbit"
-description: Rabbit
+title: "Crittergo Guide Template"
+description: Template
 category: small animal
-tags: [small animal, rabbit]
+tags: [small animal, name]
 modified: 2014-02-14
 image:
   feature: so-simple-sample-image-3.jpg
