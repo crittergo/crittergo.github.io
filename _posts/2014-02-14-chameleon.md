@@ -3,7 +3,7 @@ layout: post
 title: "Chameleon"
 description: Chameleon
 category: Reptile
-tags: [Reptile, Chameleon]
+tags: [Chameleon]
 modified: 2014-02-14
 comments: true
 share: true

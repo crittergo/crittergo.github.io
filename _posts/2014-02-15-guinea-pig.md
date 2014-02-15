@@ -3,7 +3,7 @@ layout: post
 title: "Guinea Pig"
 description: Guinea Pig
 category: Small-Animals
-tags: [Small Animals, Guinea Pig]
+tags: [Guinea Pig]
 modified: 2014-02-15
 comments: true
 share: true
