@@ -19,6 +19,7 @@ each with their own benefits.
 
 
 ## Shelter
+
 Usually, you should keep your rabbit at home in a large, 
 comfortable cage with a great deal of soft bedding for them to 
 nuzzle. They should always be kept indoors, as they are social 
