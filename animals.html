@@ -7,9 +7,16 @@ image:
   feature: hero-animals.jpg
 ---
 
-{% assign blog_categories = site.categories['blog'] | filter_categories_by_primary_category %}
-{% for category in blog_categories %}{% endfor %}
 
+{% for post in site.categories['Small-Animals'] %}{% endfor %}
+
+{% for post in site.categories['Cats'] %} {% endfor %}
+
+{% for post in site.categories['Reptiles'] %} {% endfor %}
+
+
+{% assign Small-Animals_categories = site.categories['Small-Animals'] | filter_categories_by_primary_category %}
+{% for category in Small-Animals_categories %}{% endfor %}
 
 
 <ul class="tag-box inline">

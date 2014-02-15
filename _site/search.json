@@ -17,6 +17,14 @@
 		} ,
 	
 		{
+		  "title"      : "Hedgehog",
+		  "category"   : "Small-Animal",
+		  "url"        : "/small-animal/hedgehog/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
 		  "title"      : "Guinea Pig",
 		  "category"   : "Small-Animals",
 		  "url"        : "/small-animals/guinea-pig/",
@@ -41,6 +49,22 @@
 		} ,
 	
 		{
+		  "title"      : "Chipmunk",
+		  "category"   : "Small-Animal",
+		  "url"        : "/small-animal/chipmunk/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Chinchilla",
+		  "category"   : "Small-Animal",
+		  "url"        : "/small-animal/chinchilla/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
 		  "title"      : "Bearded Dragon",
 		  "category"   : "Reptile",
 		  "url"        : "/reptile/bearded-dragon/",
@@ -50,16 +74,8 @@
 	
 		{
 		  "title"      : "Rabbit",
-		  "category"   : "small animal",
-		  "url"        : "/small%20animal/rabbit/",
-		  "date"       : "2014-02-14 00:00:00 -0800",
-		  "shortdate"  : "February 14, 2014"
-		} ,
-	
-		{
-		  "title"      : "Hedgehog",
-		  "category"   : "Small Animals",
-		  "url"        : "/small%20animals/hedgehog/",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/rabbit/",
 		  "date"       : "2014-02-14 00:00:00 -0800",
 		  "shortdate"  : "February 14, 2014"
 		} ,
@@ -82,8 +98,8 @@
 	
 		{
 		  "title"      : "Hamster",
-		  "category"   : "small animal",
-		  "url"        : "/small%20animal/hamster/",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/hamster/",
 		  "date"       : "2014-02-11 00:00:00 -0800",
 		  "shortdate"  : "February 11, 2014"
 		} 

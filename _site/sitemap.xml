@@ -14,6 +14,10 @@
     </url>
     
     <url>
+        <loc>/small-animal/hedgehog/</loc>
+    </url>
+    
+    <url>
         <loc>/small-animals/guinea-pig/</loc>
     </url>
     
@@ -26,15 +30,19 @@
     </url>
     
     <url>
+        <loc>/small-animal/chipmunk/</loc>
+    </url>
+    
+    <url>
+        <loc>/small-animal/chinchilla/</loc>
+    </url>
+    
+    <url>
         <loc>/reptile/bearded-dragon/</loc>
     </url>
     
     <url>
-        <loc>/small%20animal/rabbit/</loc>
-    </url>
-    
-    <url>
-        <loc>/small%20animals/hedgehog/</loc>
+        <loc>/small-animals/rabbit/</loc>
     </url>
     
     <url>
@@ -46,7 +54,7 @@
     </url>
     
     <url>
-        <loc>/small%20animal/hamster/</loc>
+        <loc>/small-animals/hamster/</loc>
     </url>
     
 </urlset>
