@@ -248,3 +248,8 @@ h1.title {
 	padding-left: 23%;
 	top: 66px;
 }
+
+.img-post {
+	width:640px;
+	height:250px;
+}

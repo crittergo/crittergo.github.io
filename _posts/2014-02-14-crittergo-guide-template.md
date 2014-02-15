@@ -5,11 +5,11 @@ description: Template
 category: small animal
 tags: [small animal, name]
 modified: 2014-02-14
-image:
-  feature: so-simple-sample-image-3.jpg
 comments: true
 share: true
 ---
+
+<img src="IMAGE.JPG" class="img-post">
 
 One of the cutest and most engaging small animals that you can 
 

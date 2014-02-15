@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Rabbit",
+		  "category"   : "small animal",
+		  "url"        : "/small%20animal/rabbit/",
+		  "date"       : "2014-02-14 00:00:00 -0800",
+		  "shortdate"  : "February 14, 2014"
+		} ,
+	
+		{
 		  "title"      : "Crittergo Guide Template",
 		  "category"   : "small animal",
 		  "url"        : "/small%20animal/crittergo-guide-template/",
