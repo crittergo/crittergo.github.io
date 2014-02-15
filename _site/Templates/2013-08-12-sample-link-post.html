@@ -131,6 +131,18 @@
         <p>So Simple Theme now supports <strong>link posts</strong>, made famous by John Gruber. To activate just add <code>link: http://url-you-want-linked</code> to the post’s YAML front matter and you’re done.</p>
 
         
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Crittergo -->
+			<ins class="adsbygoogle"
+			     style="display:block"
+			     data-ad-client="ca-pub-3189261935711317"
+			     data-ad-slot="8064398384"
+			     data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+        
+        
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
@@ -173,7 +185,7 @@
       $('.search-field').simpleJekyllSearch({
           jsonFile : '/search.json',
           searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date">{category}</span></a></article></li>',
           noResults: '<p>Nothing found.</p>'
         });
   });
