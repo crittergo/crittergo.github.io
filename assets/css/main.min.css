@@ -193,8 +193,13 @@ h1.title {
 	height:250px;
 }
 
-entry-title {
+.entry-title {
 	
+}
+
+.entry-content {
+	font-size: 18px;
+	line-height: 32px;
 }
 
 .entry-feature-image {
