@@ -10,8 +10,8 @@
 	
 		{
 		  "title"      : "Iguana",
-		  "category"   : "Reptile",
-		  "url"        : "/reptile/iguana/",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/iguana/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,
@@ -66,8 +66,8 @@
 	
 		{
 		  "title"      : "Bearded Dragon",
-		  "category"   : "Reptile",
-		  "url"        : "/reptile/bearded-dragon/",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/bearded-dragon/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,
@@ -82,8 +82,8 @@
 	
 		{
 		  "title"      : "Chameleon",
-		  "category"   : "Reptile",
-		  "url"        : "/reptile/chameleon/",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/chameleon/",
 		  "date"       : "2014-02-14 00:00:00 -0800",
 		  "shortdate"  : "February 14, 2014"
 		} ,
