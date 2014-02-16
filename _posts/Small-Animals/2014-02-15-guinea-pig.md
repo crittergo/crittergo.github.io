@@ -7,7 +7,7 @@ tags: [Small Animals]
 modified: 2014-02-15
 comments: true
 share: true
-writer: Kyle
+author: kyle
 ---
 
 <img src="/images/guinea-pig-1.jpg" class="img-post">

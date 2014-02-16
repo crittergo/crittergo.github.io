@@ -10,12 +10,7 @@ url:
 owner:
   name:           Crittergo
   avatar:         bio-photo.jpg
-  email:          crittergo@gmail.com
-  
-writer:
-  name:           Kyle
-  avatar:         bio-photo.jpg
-  email:          kyle@gmail.com
+  email:          crittergo@gmail.com 
   
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -28,6 +23,16 @@ writer:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
+  
+# Author information
+authors:
+    kyle:
+        display_name: Kyle Glatz
+        avatar:       bio-photo.jpg
+    jessica:
+        display_name: Jessica Kitzman
+        avatar:       bio-photo.jpg
+        email:        jessica@gmail.com 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-48118100-1

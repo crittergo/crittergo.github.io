@@ -7,7 +7,7 @@ category: Small-Animals
 tags: [Small Animals]
 comments: true
 share: true
-
+author: kyle
 --- 
 
 <img src="/images/possum-1.jpg" class="img-post">

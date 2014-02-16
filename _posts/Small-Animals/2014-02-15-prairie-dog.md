@@ -7,7 +7,7 @@ category: Small-Animals
 tags: [Small Animals]
 comments: true
 share: true
-
+author: kyle
 --- 
 
 <img src="/images/prairie-dog-1.jpg" class="img-post">

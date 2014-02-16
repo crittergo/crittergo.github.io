@@ -7,7 +7,7 @@ category: Reptiles
 tags: [Reptiles]
 comments: true
 share: true
-
+author: jessica
 --- 
 
 <img src="/images/bearded-dragon-1.jpg" class="img-post">
