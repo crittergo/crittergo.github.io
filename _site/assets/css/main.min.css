@@ -238,9 +238,19 @@ h1.title {
 	margin-top: 0px;
 }
 
+.nav-container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
 @media (max-width:767px) {
 	.navbar-brand {
 		display: none !important;
+	}
+	.nav-container {
+		padding:0;
 	}
 }
 
