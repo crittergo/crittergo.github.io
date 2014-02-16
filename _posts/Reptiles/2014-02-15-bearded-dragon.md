@@ -3,8 +3,8 @@
 layout: post
 title: "Bearded Dragon"
 description: Bearded Dragon
-category: Reptile
-tags: [Bearded Dragon]
+category: Reptiles
+tags: [Reptiles]
 comments: true
 share: true
 

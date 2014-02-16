@@ -18,8 +18,8 @@
 	
 		{
 		  "title"      : "Hedgehog",
-		  "category"   : "Small-Animal",
-		  "url"        : "/small-animal/hedgehog/",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/hedgehog/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,
@@ -50,8 +50,8 @@
 	
 		{
 		  "title"      : "Chipmunk",
-		  "category"   : "Small-Animal",
-		  "url"        : "/small-animal/chipmunk/",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/chipmunk/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,

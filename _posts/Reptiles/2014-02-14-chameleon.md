@@ -2,8 +2,8 @@
 layout: post
 title: "Chameleon"
 description: Chameleon
-category: Reptile
-tags: [Chameleon]
+category: Reptiles
+tags: [Reptiles]
 modified: 2014-02-14
 comments: true
 share: true

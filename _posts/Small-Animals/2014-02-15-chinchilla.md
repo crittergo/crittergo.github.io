@@ -4,7 +4,7 @@ layout: post
 title: "Chinchilla"
 description: Chinchilla
 category: Small-Animal
-tags: [Chinchilla]
+tags: [Small Animals]
 comments: true
 share: true
 
