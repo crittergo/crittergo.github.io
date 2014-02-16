@@ -33,4 +33,4 @@ need to be taken to a vet immediately for examination.
 
 Cleaning a Guinea Pig’s fur is simple because they enjoy water, for the most part. However, this is discouraged in the winter or in a cold environment. They must be bathed in warm water to regulate their body temperature. Also, since they frequently defecate, it is smart to clean their cage or primary area before you can smell it. Try not to put a clean Guinea Pig into a dirty area.
 
-<sub>*Source: http://www.aspca.org *</sub>
+<sub>*Source: http://www.aspca.org*</sub>
