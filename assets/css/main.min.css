@@ -297,8 +297,10 @@ h1.title {
 	}
 }
 
-@media (min-width:720px) {
-
+@media (min-width:767px) {
+	body.search-overlay:after {
+		top: 42px;
+	}
 }
 
 @media (min-width:720px) and (max-width:960px){
