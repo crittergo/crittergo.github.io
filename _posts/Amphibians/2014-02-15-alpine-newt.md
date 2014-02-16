@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Alpine Newt”
+title: "Alpine Newt"
 description: Alpine Newt
 category: Amphibian
 tags: [Amphibian]
