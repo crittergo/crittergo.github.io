@@ -203,7 +203,9 @@
       $('.search-field').simpleJekyllSearch({
           jsonFile : 'search.json',
           searchResults : '.search-results',
+          searchResultsTitle : false,
           template : '<li><article><a href="{url}">{title} <span class="entry-date"></span></a></article></li>',
+          limit : '6',
           noResults: '<p>Nothing found.</p>'
         });
   });
