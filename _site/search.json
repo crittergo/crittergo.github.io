@@ -1,9 +1,41 @@
 [
 	
 		{
+		  "title"      : "Turtle",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/turtle/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Sugar Glider",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/sugar-glider/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Skinny Pig",
+		  "category"   : "Small-Animals",
+		  "url"        : "/small-animals/skinny-pig/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
 		  "title"      : "Short Tailed Possum",
 		  "category"   : "Small-Animals",
 		  "url"        : "/small-animals/short-tailed-possum/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Salamander",
+		  "category"   : "Amphibians",
+		  "url"        : "/amphibians/salamander/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,
@@ -28,6 +60,14 @@
 		  "title"      : "Prairie Dog",
 		  "category"   : "Small-Animals",
 		  "url"        : "/small-animals/prairie-dog/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Mudpuppy",
+		  "category"   : "Amphibians",
+		  "url"        : "/amphibians/mudpuppy/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,
@@ -73,6 +113,22 @@
 		} ,
 	
 		{
+		  "title"      : "Gecko",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/gecko/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Terrestrial Frog",
+		  "category"   : "Amphibians",
+		  "url"        : "/amphibians/frog/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
 		  "title"      : "Ferret",
 		  "category"   : "Small-Animals",
 		  "url"        : "/small-animals/ferret/",
@@ -100,6 +156,14 @@
 		  "title"      : "Bearded Dragon",
 		  "category"   : "Reptiles",
 		  "url"        : "/reptiles/bearded-dragon/",
+		  "date"       : "2014-02-15 00:00:00 -0800",
+		  "shortdate"  : "February 15, 2014"
+		} ,
+	
+		{
+		  "title"      : "Alpine Newt",
+		  "category"   : "Amphibians",
+		  "url"        : "/amphibians/alpine-newt/",
 		  "date"       : "2014-02-15 00:00:00 -0800",
 		  "shortdate"  : "February 15, 2014"
 		} ,

@@ -6,7 +6,23 @@
     
     
     <url>
+        <loc>/reptiles/turtle/</loc>
+    </url>
+    
+    <url>
+        <loc>/small-animals/sugar-glider/</loc>
+    </url>
+    
+    <url>
+        <loc>/small-animals/skinny-pig/</loc>
+    </url>
+    
+    <url>
         <loc>/small-animals/short-tailed-possum/</loc>
+    </url>
+    
+    <url>
+        <loc>/amphibians/salamander/</loc>
     </url>
     
     <url>
@@ -19,6 +35,10 @@
     
     <url>
         <loc>/small-animals/prairie-dog/</loc>
+    </url>
+    
+    <url>
+        <loc>/amphibians/mudpuppy/</loc>
     </url>
     
     <url>
@@ -42,6 +62,14 @@
     </url>
     
     <url>
+        <loc>/reptiles/gecko/</loc>
+    </url>
+    
+    <url>
+        <loc>/amphibians/frog/</loc>
+    </url>
+    
+    <url>
         <loc>/small-animals/ferret/</loc>
     </url>
     
@@ -55,6 +83,10 @@
     
     <url>
         <loc>/reptiles/bearded-dragon/</loc>
+    </url>
+    
+    <url>
+        <loc>/amphibians/alpine-newt/</loc>
     </url>
     
     <url>

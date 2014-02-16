@@ -71,6 +71,24 @@
 
 .post-list .entry-date {display: inline;margin-top: 5px;}
 
+.search-form .post-list {
+	background-color: rgba(0,0,0,0.2);
+	padding: 0 20px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.search-form:after {
+	max-height: 308px;
+	overflow: hidden;
+}
+
+.post-list li:last-child {
+	border-bottom:none;
+}
+
+.post-list .entry-date{font-size:12px;}
+
+
 </style>
 
 </head>
@@ -100,8 +118,6 @@
 					 
 				</li>
 		       
-		        
-		        <li><a href="feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
 		    </ul>
 		</div>
 	    
@@ -113,7 +129,7 @@
     <div class="jumbotron hero-img">
 	  <div class="container">
 		<div class="row">
-		  <div class="col-md-4">
+		  <div class="col-md-6">
 		  		<h1 class="title">Hello World</h1>
 	   		 	<div class="search-form active">
 					<input type="text" class="search-field" placeholder="Search animal guides...">									<ul class="search-results post-list"></ul><!-- /.search-results -->
@@ -172,13 +188,13 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="assets/js/bootstrap.min.js"></script>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="assets/js/bootstrap.min.js"></script>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.9.1.min.js"></script>')</script>
 <script src="assets/js/scripts.min.js"></script>
 
 <!-- Jekyll Simple Search option -->
@@ -187,7 +203,7 @@
       $('.search-field').simpleJekyllSearch({
           jsonFile : 'search.json',
           searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date">{category}</span></a></article></li>',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"></span></a></article></li>',
           noResults: '<p>Nothing found.</p>'
         });
   });

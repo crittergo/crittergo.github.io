@@ -11,6 +11,12 @@ owner:
   name:           Crittergo
   avatar:         bio-photo.jpg
   email:          crittergo@gmail.com
+  
+writer:
+  name:           Kyle
+  avatar:         bio-photo.jpg
+  email:          kyle@gmail.com
+  
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       crittergo
