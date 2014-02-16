@@ -2,8 +2,8 @@
 layout: post
 title: "Alpine Newt"
 description: Alpine Newt
-category: Amphibian
-tags: [Amphibian]
+category: Amphibians
+tags: [Amphibians]
 comments: true
 share: true
 ---
