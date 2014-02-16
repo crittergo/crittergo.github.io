@@ -2,8 +2,8 @@
 layout: post
 title: “Salamander”
 description: Salamander
-category: Amphibians
-tags: [Amphibians]
+category: Amphibian
+tags: [Amphibian]
 comments: true
 share: true
 ---
