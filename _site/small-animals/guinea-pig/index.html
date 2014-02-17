@@ -62,8 +62,17 @@
 </head>
 
 <body id="post">
-
-<div class="navigation-wrapper">
+	
+	<!--facebook comments script-->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1538844263006459";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="navbar navbar-default">
 	    <div class="container nav-container">
 		    <ul><li><a class="navbar-brand" href="http://www.crittergo.com">Crittergo</a></li>
@@ -128,6 +137,7 @@
 <p>The primary shelter that you can provide for a Guinea Pig is a large cage with soft bedding. However, many pet owners prefer to let their Guinea Pigs roam around their home, either freely or inside a play ball. Certain precautions must be taken to ensure that your pet does not wander into any hazardous areas.</p>
 
 <h2 id="diet">Diet</h2>
+
 <p>While you will primarily feed a Guinea Pig manufactured food, you can always supplement their diet with vegetables such as carrots to make sure that they receive the proper amount of nutrients and vitamins to allow them to live a long, healthy life. One of the treats that you can feed Guinea Pigs is timothy hay, a healthy grass that allows them to keep their teeth healthy.</p>
 
 <h2 id="activityexercise">Activity/Exercise</h2>
@@ -188,8 +198,10 @@ need to be taken to a vet immediately for examination.</p>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-      
       </footer>
+
+	<!--facebook comments-->
+	<div class="fb-comments" data-href="http://crittergo.com" data-width="640" data-numposts="10" data-colorscheme="light"></div>
 
 
     </div><!-- /.entry-wrapper -->

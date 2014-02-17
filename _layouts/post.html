@@ -8,8 +8,17 @@
 </head>
 
 <body id="post">
-
-{% include navigation.html %}
+	
+	<!--facebook comments script-->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1538844263006459";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	{% include navigation.html %}
 
 <div id="main" role="main">
   <article class="hentry">
@@ -69,8 +78,10 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-      
       </footer>
+
+	<!--facebook comments-->
+	<div class="fb-comments" data-href="http://crittergo.com" data-width="640" data-numposts="10" data-colorscheme="light"></div>
 
 
     </div><!-- /.entry-wrapper -->

@@ -62,8 +62,17 @@
 </head>
 
 <body id="post">
-
-<div class="navigation-wrapper">
+	
+	<!--facebook comments script-->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1538844263006459";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="navbar navbar-default">
 	    <div class="container nav-container">
 		    <ul><li><a class="navbar-brand" href="http://www.crittergo.com">Crittergo</a></li>
@@ -123,8 +132,7 @@
 
 <p>Many people like the idea of a chameleon as a pet due to their ability to change colors. 
 Chameleons are hardy, and don’t require a great deal of care. However, they aren’t 
-particularly playful or cuddly, and they should not be handled regularly, so for pet owners 
-who want more interaction, they aren’t the best choice.</p>
+particularly playful or cuddly, and they should not be handled regularly, so for pet owners who want more interaction, they aren’t the best choice.</p>
 
 <h2 id="shelter">Shelter</h2>
 
@@ -142,6 +150,7 @@ crickets or worms, to various plants, including lettuce, flowering plants, dande
 and carrots. Insects that are too large could be difficult to digest.</p>
 
 <h2 id="activityexercise">Activity/Exercise</h2>
+
 <p>Chameleons can become stressed if they are handled too much. However, while 
 cleaning the cage, owners can give chameleons time to explore and climb. A small, 
 enclosed, alternate cage can be used to give the chameleon more space during 
@@ -158,9 +167,7 @@ spray bottle is the easiest way to keep water in the cage.</p>
 
 <h2 id="grooming">Grooming</h2>
 
-<p>Chameleons do not require any significant cleaning or groom, and in fact, handling of </p>
-
-<p>chameleons should be limited. They are extremely low maintenance in this respect.</p>
+<p>Chameleons do not require any significant cleaning or groom, and in fact, handling of chameleons should be limited. They are extremely low maintenance in this respect.</p>
 
 
         
@@ -206,8 +213,10 @@ spray bottle is the easiest way to keep water in the cage.</p>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-      
       </footer>
+
+	<!--facebook comments-->
+	<div class="fb-comments" data-href="http://crittergo.com" data-width="640" data-numposts="10" data-colorscheme="light"></div>
 
 
     </div><!-- /.entry-wrapper -->

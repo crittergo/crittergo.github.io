@@ -62,8 +62,17 @@
 </head>
 
 <body id="post">
-
-<div class="navigation-wrapper">
+	
+	<!--facebook comments script-->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1538844263006459";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="navbar navbar-default">
 	    <div class="container nav-container">
 		    <ul><li><a class="navbar-brand" href="http://www.crittergo.com">Crittergo</a></li>
@@ -124,6 +133,7 @@
 <p>Gerbils are one of the most active and lovable small rodents that you can keep as a pet. That also means that they can be some of the most troublesome to keep in a cage. However, if you manage to give them a good home, then your gerbil can live for between three and four years.</p>
 
 <h2 id="shelter">Shelter</h2>
+
 <p>Like other small rodents, gerbils are very social animals and you should at least consider keeping several of them together. However, it is a bad idea 
 to keep males and females together because they will breed quickly. You can house gerbils in a wire cage or a glass aquarium. It needs to be kept away from direct light or cold air to avoid sickness.</p>
 
@@ -132,6 +142,7 @@ to keep males and females together because they will breed quickly. You can hous
 <p>Gerbils tend to eat seeds as a main source of food. You can buy a pre-mixed blend of food at any pet store that will consist of seed, pellets, and dried vegetables. You can feed gerbils small amounts of fresh fruits and vegetables. Also, they enjoy sunflower seeds as a snack.</p>
 
 <h2 id="activityexercise">Activity/Exercise</h2>
+
 <p>It is not advised to let your gerbils out of their cage and into the open unless you are absolutely sure that the area is escape proof. Gerbils are very frisky, and they can squeeze into small areas and become lost. Another great way to make sure that your gerbil gets exercise is by putting them in a small exercise ball and letting them loose around your home.</p>
 
 <h2 id="health">Health</h2>
@@ -187,8 +198,10 @@ to keep males and females together because they will breed quickly. You can hous
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-      
       </footer>
+
+	<!--facebook comments-->
+	<div class="fb-comments" data-href="http://crittergo.com" data-width="640" data-numposts="10" data-colorscheme="light"></div>
 
 
     </div><!-- /.entry-wrapper -->
