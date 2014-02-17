@@ -6,6 +6,7 @@ category: Amphibians
 tags: [Amphibians]
 comments: true
 share: true
+author: kyle
 ---
 <img src="/images/alpine-newt-1.jpg" class="img-post">
 
