@@ -14,8 +14,7 @@ author: jessica
 
 Many people like the idea of a chameleon as a pet due to their ability to change colors. 
 Chameleons are hardy, and don’t require a great deal of care. However, they aren’t 
-particularly playful or cuddly, and they should not be handled regularly, so for pet owners 
-who want more interaction, they aren’t the best choice.
+particularly playful or cuddly, and they should not be handled regularly, so for pet owners who want more interaction, they aren’t the best choice.
 
 ## Shelter
 
@@ -33,6 +32,7 @@ crickets or worms, to various plants, including lettuce, flowering plants, dande
 and carrots. Insects that are too large could be difficult to digest.
 
 ## Activity/Exercise
+
 Chameleons can become stressed if they are handled too much. However, while 
 cleaning the cage, owners can give chameleons time to explore and climb. A small, 
 enclosed, alternate cage can be used to give the chameleon more space during 
@@ -49,8 +49,6 @@ spray bottle is the easiest way to keep water in the cage.
 
 ## Grooming
 
-Chameleons do not require any significant cleaning or groom, and in fact, handling of 
-
-chameleons should be limited. They are extremely low maintenance in this respect.
+Chameleons do not require any significant cleaning or groom, and in fact, handling of chameleons should be limited. They are extremely low maintenance in this respect.
 
 

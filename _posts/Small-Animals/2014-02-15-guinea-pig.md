@@ -19,6 +19,7 @@ One of the most loving and rewarding pets that you can own is a Guinea Pig. They
 The primary shelter that you can provide for a Guinea Pig is a large cage with soft bedding. However, many pet owners prefer to let their Guinea Pigs roam around their home, either freely or inside a play ball. Certain precautions must be taken to ensure that your pet does not wander into any hazardous areas.
 
 ## Diet
+
 While you will primarily feed a Guinea Pig manufactured food, you can always supplement their diet with vegetables such as carrots to make sure that they receive the proper amount of nutrients and vitamins to allow them to live a long, healthy life. One of the treats that you can feed Guinea Pigs is timothy hay, a healthy grass that allows them to keep their teeth healthy.
 
 ## Activity/Exercise

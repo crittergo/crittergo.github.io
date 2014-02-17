@@ -23,6 +23,7 @@ Sheltering a skinny pig is simple. They should be placed in a wire cage that has
 The bottom of the cage should be coated in soft bedded pine chips, with a layer of fleece on the bottom of the cage to provide extra warmth.
 
 ##Diet
+
 Skinny pigs enjoy a variety of fruits and vegetables such as carrots, peppers, and zucchini.The majority of a skinny pig’s diet should consist of vitamin and protein fortified pellets that are marketed specifically for guinea pigs and skinny pigs. Skinny pigs should also be offered timothy hay to keep their teeth strong and provide supplemental vitamins for gastrointestinal health.
 
 ##Activity/Exercise 
