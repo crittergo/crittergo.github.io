@@ -14,7 +14,7 @@ comment: true
 
 ---
 
-<img src="/images/blue-tongues-kink-1.jpg" class="img-post">
+<img src="/images/blue-tongue-skink-1.jpg" class="img-post">
 
 As their name suggests, blue tongue skinks are known for their blue tongues. They're fairly social lizards, and many enjoy being held, making them an ideal reptile for someone looking to bond more with his or her pet. 
 
