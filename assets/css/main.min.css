@@ -223,6 +223,96 @@ h1.title {
 	text-align: center;
 }
 
+.content-wide-entry {
+	width: 940px
+}
+# bug 999px - 768px is left aligned
+
+
+/* box overlay */
+ul.img-thumbs {
+	z-index: 0;
+	list-style: none;
+	overflow: hidden;
+	padding-left: 0px;
+}
+ul.img-thumbs li {
+	float: left;
+	color: #ffffff;
+	position: relative;
+	overflow: hidden;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+
+ul.img-thumbs a {
+	display: block;
+	overflow: hidden;
+}
+.overlay {
+	font-size: 12px;
+	line-height: 16px;
+	background: rgba(0,0,0,0.6);
+	position:absolute;
+	top: 142px;
+	left: 10px;
+	z-index: 5;
+	width: 260px;
+	height: 186px;
+	padding: 15px;
+}
+.overlay-icons {
+	position: absolute;
+	top: 52px;
+	left: 10px;
+}
+.overlay-icons a:hover {
+	background-color: rgba(0,0,0,0.4);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+}	
+.overlay-icons a {
+	padding: 5px;
+	color: #fff;
+	text-align: center;
+}
+.overlay-icons .fa {
+	display:block;
+}
+.overlay-title {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 240px;
+}
+.overlay-title a {
+	padding:5px;
+	height: 34px;
+}
+.overlay a:hover {
+	background-color: rgba(0,0,0,0.4);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.overlay h1 {
+	font-size: 22px;
+	color: #ffffff;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-top: 2px;
+	line-height:22px;
+}
+.icon-animal {
+	margin-left: 12px;
+	position: absolute;
+	top: 7px;
+}
+
+
+/* end box overlay */
+
+
+
 
 .jumbotron {
 	background:url("../../images/hero-dog.jpg") no-repeat 0 0;
