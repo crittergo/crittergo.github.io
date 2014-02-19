@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Water Dragon"
@@ -6,6 +5,9 @@ description: Water Dragon
 category: Reptiles
 tags: [Reptiles]
 author: jessica
+share: true
+comment: true
+
 
 ---
 
