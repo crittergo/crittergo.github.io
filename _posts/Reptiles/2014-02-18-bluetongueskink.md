@@ -1,4 +1,3 @@
-
 ---
 layout: post
 
@@ -10,6 +9,8 @@ category: Reptiles
 
 tags: [Reptiles]
 author: jessica
+share: true
+comment: true
 
 ---
 
