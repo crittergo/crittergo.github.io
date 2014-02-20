@@ -65,7 +65,7 @@
 <script type="text/javascript">
 $(document).ready(function() {
 $('ul.img-thumbs li').hover( /*Default syntax in jquery library: hover( handlerIn(eventObject), handlerOut(eventObject) )*/
-function(){$(".overlay", this).stop().animate({top:'70px'}, {queue:false,duration:300});}, 
+function(){$(".overlay", this).stop().animate({top:'80px'}, {queue:false,duration:300});}, 
 function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duration:300});}
 					 );  
 });
@@ -128,13 +128,27 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
       <div class="entry-wide-content">
         <ul class="img-thumbs" style="padding-left:0px;">
     <li class="col-md-4">
-    <a href="#"><img src="http://placehold.it/400x300" /></a>
+    <a href="#"><img class="category-img" src="http://placehold.it/260x195" /></a>
     <div class="overlay">
 	    <div class="overlay-title">
 	    	<a href="#"><h1>Hamster <i class="fa fa-angle-right icon-animal"></i></h1></a>
 	    </div>
-	    <div class="overlay-icons">
-	    	<a href="#"><i class="fa fa-plus fa-3x"></i> Health</a>
+	    <div class="overlay-icon-container">
+	    	<div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-shelter ikon-2x"></div></i>Shelter</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-diet ikon-2x"></div></i>Diet</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-activity ikon-2x"></div></i>Activity</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-health ikon-1x"></div></i>Health</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-grooming" style="font-size:27px;"></div></i>Grooming</a>  
+		    </div>
 	    </div>
 	</div>
   </li>
@@ -142,16 +156,52 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
     <li class="col-md-4">
     <a href="#"><img src="http://placehold.it/400x300"  /></a>
  	<div class="overlay">
-	    <h1>Chinchilla</h1>
-	    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+	    <div class="overlay-title">
+	    	<a href="#"><h1>Chinchilla <i class="fa fa-angle-right icon-animal"></i></h1></a>
+	    </div>
+	    <div class="overlay-icon-container">
+	    	<div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-shelter ikon-2x"></div></i>Shelter</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-diet ikon-2x"></div></i>Diet</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-activity ikon-2x"></div></i>Activity</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-health ikon-1x"></div></i>Health</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-grooming ikon-1x"></div></i>Grooming</a>  
+		    </div>
+	    </div>
 	</div>  
   </li>
   
     <li class="col-md-4">
     <a href="#"><img src="http://placehold.it/400x300"  /></a>
     <div class="overlay">
-	    <h1>Cats</h1>
-	    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+	    <div class="overlay-title">
+	    	<a href="#"><h1>Cats <i class="fa fa-angle-right icon-animal"></i></h1></a>
+	    </div>
+	    <div class="overlay-icon-container">
+	    	<div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-shelter ikon-2x"></div></i>Shelter</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-diet ikon-2x"></div></i>Diet</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-activity ikon-2x"></div></i>Activity</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-health ikon-1x"></div></i>Health</a>  
+		    </div>
+		    <div class="overlay-icons">
+		    	<a href="#"><div class="ikon-ca-grooming ikon-1x"></div></i>Grooming</a>  
+		    </div>
+	    </div>
 	</div>
   </li>
 </ul>
