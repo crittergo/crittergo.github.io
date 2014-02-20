@@ -1,17 +1,17 @@
 [
 	
 		{
-		  "title"      : "Waterdragon",
-		  "category"   : "",
-		  "url"        : "/waterdragon/",
+		  "title"      : "Water Dragon",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/waterdragon/",
 		  "date"       : "2014-02-18 00:00:00 -0800",
 		  "shortdate"  : "February 18, 2014"
 		} ,
 	
 		{
-		  "title"      : "Bluetongueskink",
-		  "category"   : "",
-		  "url"        : "/bluetongueskink/",
+		  "title"      : "Blue Tongue Skink",
+		  "category"   : "Reptiles",
+		  "url"        : "/reptiles/bluetongueskink/",
 		  "date"       : "2014-02-18 00:00:00 -0800",
 		  "shortdate"  : "February 18, 2014"
 		} ,

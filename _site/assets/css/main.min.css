@@ -279,6 +279,20 @@ h1.title {
 }
 
 
+/* sticky navbar */
+
+.category-nav {
+	background-color: #666666;
+	color: #fff;
+}
+
+.fixed-top {
+	position: fixed;
+	margin-left: 0;
+	margin-right: 0;
+	top: 0!important;
+}
+
 .triplet {
 	text-align: center;
 	padding: 20px;

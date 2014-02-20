@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-02-20T07:32:58-08:00</updated>
+<updated>2014-02-20T08:09:33-08:00</updated>
 <id>/</id>
 <author>
   <name>Crittergo</name>
@@ -14,9 +14,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Waterdragon]]></title>
-  <link rel="alternate" type="text/html" href="/waterdragon/"/>
-  <id>/waterdragon</id>
+  <title type="html"><![CDATA[Water Dragon]]></title>
+  <link rel="alternate" type="text/html" href="/reptiles/waterdragon/"/>
+  <id>/reptiles/waterdragon</id>
   <published>2014-02-18T00:00:00-08:00</published>
   <updated>2014-02-18T00:00:00-08:00</updated>
   <author>
@@ -24,18 +24,7 @@
     <uri></uri>
     <email>crittergo@gmail.com</email>
   </author>
-  <content type="html">
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title: “Water Dragon”
-description: Water Dragon
-category: Reptiles
-tags: [Reptiles]
-author: jessica&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/water-dragon-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/water-dragon-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Water dragons are unique and interesting reptiles to have as a pet, as they are bright green, with a very long tail. They are known to be able to run on their hind legs, and also are able to swim quite well. &lt;/p&gt;
 
@@ -59,14 +48,14 @@ author: jessica&lt;/p&gt;
 
 &lt;p&gt;Water dragons go through shedding in stages, and do not shed all of their skin at once. Shedding typically occurs every month or so, and the water dragon’s skin should not be peeled off by the owner. It is important to keep the water dragon’s cage moist and humid, especially during the shedding process.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/waterdragon/&quot;&gt;Waterdragon&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/reptiles/waterdragon/&quot;&gt;Water Dragon&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Bluetongueskink]]></title>
-  <link rel="alternate" type="text/html" href="/bluetongueskink/"/>
-  <id>/bluetongueskink</id>
+  <title type="html"><![CDATA[Blue Tongue Skink]]></title>
+  <link rel="alternate" type="text/html" href="/reptiles/bluetongueskink/"/>
+  <id>/reptiles/bluetongueskink</id>
   <published>2014-02-18T00:00:00-08:00</published>
   <updated>2014-02-18T00:00:00-08:00</updated>
   <author>
@@ -74,22 +63,7 @@ author: jessica&lt;/p&gt;
     <uri></uri>
     <email>crittergo@gmail.com</email>
   </author>
-  <content type="html">
-&lt;hr /&gt;
-&lt;p&gt;layout: post&lt;/p&gt;
-
-&lt;p&gt;title: “Blue Tongue Skink”&lt;/p&gt;
-
-&lt;p&gt;description: Blue Tongue Skink &lt;/p&gt;
-
-&lt;p&gt;category: Reptiles&lt;/p&gt;
-
-&lt;p&gt;tags: [Reptiles]
-author: jessica&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blue-tongues-kink-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/blue-tongue-skink-1.jpg&quot; class=&quot;img-post&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As their name suggests, blue tongue skinks are known for their blue tongues. They’re fairly social lizards, and many enjoy being held, making them an ideal reptile for someone looking to bond more with his or her pet. &lt;/p&gt;
 
@@ -113,7 +87,7 @@ author: jessica&lt;/p&gt;
 
 &lt;p&gt;Skink owners should soak their skinks once every week. To do so, owners should use a large tupperware or similar container with water deep enough for the skink to be fully submerged, with its head above ground. The lizard should be allowed to stay in the water for around thirty minutes. Regular soaking can help with shedding.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/bluetongueskink/&quot;&gt;Bluetongueskink&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/reptiles/bluetongueskink/&quot;&gt;Blue Tongue Skink&lt;/a&gt; was originally published by Crittergo at &lt;a href=&quot;&quot;&gt;Crittergo&lt;/a&gt; on February 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 
