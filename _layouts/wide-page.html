@@ -20,24 +20,26 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
 
 {% include navigation.html %}
 
+<div class="hero-img"></div>
 
 
-<nav class="navbar navbar-default category-nav" role="navigation">
-  <div class="container">
+	<nav class="navbar navbar-default category-nav" role="navigation">
+	  <div class="container">
+	
+	    <!-- Collect the nav links, forms, and other content for toggling -->
+	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	      <ul class="nav navbar-nav">
+	        <li><a href="#">Cats</a></li>
+			<li><a href="#">Dogs</a></li>
+			<li><a href="#">Small Animals</a></li>
+			<li><a href="#">Reptiles</a></li>
+			<li><a href="#">Amphibians</a></li>
+			<li><a href="#">Birds</a></li>
+	      </ul>
+	    </div><!-- /.navbar-collapse -->
+	  </div><!-- /.container-fluid -->
+	</nav>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li><a href="#">Cats</a></li>
-		<li><a href="#">Dogs</a></li>
-		<li><a href="#">Small Animals</a></li>
-		<li><a href="#">Reptiles</a></li>
-		<li><a href="#">Amphibians</a></li>
-		<li><a href="#">Birds</a></li>
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
 
 
 <div id="main" role="main">
@@ -59,6 +61,21 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var s = $(".category-nav");
+    var pos = s.position();                    
+    $(window).scroll(function() {
+        var windowpos = $(window).scrollTop();
+        if (windowpos >= pos.top) {
+            s.addClass("stick");
+        } else {
+            s.removeClass("stick"); 
+        }
+    });
+});
+</script>
 
 {% include scripts.html %}          
 

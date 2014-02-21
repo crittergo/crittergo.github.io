@@ -192,6 +192,8 @@ h1.title {
 	color: #ffffff;
 }
 
+
+
 .navigation-wrapper ul {
 	display: block;
 	padding: 10px 20px;
@@ -282,9 +284,19 @@ h1.title {
 /* sticky navbar */
 
 .category-nav {
+	z-index: 10;
 	background-color: #666666;
 	color: #fff;
 }
+
+.stick {
+    position:fixed;
+    top:0px;
+    margin-left: 0;
+	margin-right: 0;
+}
+
+/* sticky navbar */
 
 .fixed-top {
 	position: fixed;
@@ -307,8 +319,16 @@ h1.title {
 .content-wide-entry {
 	width: 940px
 }
-# bug 999px - 768px is left aligned
+/* bug 999px - 768px is left aligned */
 
+/* categories img hero */
+.hero-img {
+	background-size: 100%;
+	background: url("../../images/categories-hero.jpg");
+	height: 300px;
+	overflow: hidden;
+	background-position: center;
+}
 
 /* box overlay */
 
@@ -410,7 +430,6 @@ ul.img-thumbs a {
 	background:url("../../images/hero-dog.jpg") no-repeat 0 0;
 	height:550px;
 	overflow: hidden;
-
 }
 
 .tag-box a {
