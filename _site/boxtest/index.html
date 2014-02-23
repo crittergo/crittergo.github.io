@@ -67,9 +67,19 @@ $(document).ready(function() {
 $('ul.img-thumbs li').hover( /*Default syntax in jquery library: hover( handlerIn(eventObject), handlerOut(eventObject) )*/
 function(){$(".overlay", this).stop().animate({top:'80px'}, {queue:false,duration:300});}, 
 function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duration:300});}
-					 );  
+);					   
 });
 </script>
+<style type="text/css">
+@media (max-width:999px){.col-md-4 {width:50%;margin-bottom: 20px;}.overlay{width: 300px;}ul.img-thumbs li{height: 196px;}}
+@media (max-width:767px){.col-md-4 {width:100%;margin-bottom: 20px;}.overlay{width: 95%;}}
+@media (max-width:430px){.overlay{width: 94.9%;}}
+@media (max-width:422px){.overlay{width: 94.8%;}}
+@media (max-width:405px){.overlay{width: 94.4%;}}
+@media (max-width:378px){.overlay{width: 94.2%;}}
+@media (max-width:350px){.overlay{width: 93%;}}
+
+</style>
 </head>
 
 <body id="page">
@@ -120,24 +130,22 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
 
 <div class="hero-img"></div>
 
+<nav class="navbar navbar-default category-nav" role="navigation">
+  <div class="container">
 
-	<nav class="navbar navbar-default category-nav" role="navigation">
-	  <div class="container">
-	
-	    <!-- Collect the nav links, forms, and other content for toggling -->
-	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	      <ul class="nav navbar-nav">
-	        <li><a href="#">Cats</a></li>
-			<li><a href="#">Dogs</a></li>
-			<li><a href="#">Small Animals</a></li>
-			<li><a href="#">Reptiles</a></li>
-			<li><a href="#">Amphibians</a></li>
-			<li><a href="#">Birds</a></li>
-	      </ul>
-	    </div><!-- /.navbar-collapse -->
-	  </div><!-- /.container-fluid -->
-	</nav>
-
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="#">Cats</a></li>
+		<li><a href="#">Dogs</a></li>
+		<li><a href="#">Small Animals</a></li>
+		<li><a href="#">Reptiles</a></li>
+		<li><a href="#">Amphibians</a></li>
+		<li><a href="#">Birds</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 
 
 <div id="main" role="main">
@@ -150,7 +158,7 @@ function(){$(".overlay", this).stop().animate({top:'142px'},{queue:false,duratio
       <div class="entry-wide-content">
         <ul class="img-thumbs" style="padding-left:0px;">
     <li class="col-md-4">
-    <a href="#"><img class="category-img" src="http://placehold.it/260x195" /></a>
+    <a href="#"><img src="http://placehold.it/400x300" /></a>
     <div class="overlay">
 	    <div class="overlay-title">
 	    	<a href="#"><h1>Hamster <i class="fa fa-angle-right icon-animal"></i></h1></a>
