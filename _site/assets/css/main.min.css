@@ -396,7 +396,7 @@ ul.img-thumbs a {
 	position: absolute;
 	top: 10px;
 	left: 10px;
-	width: 93%;
+	width: 240px;
 }
 .overlay-title a {
 	padding:5px;
@@ -424,6 +424,24 @@ ul.img-thumbs a {
 
 /* end box overlay */
 
+
+/* category images */
+.category-img { 
+	background: url(../../images/category-images.jpg) no-repeat;
+	background-size: 780px 2374px;
+}
+
+.gerbil {background-position: -260px -390px;width: 260px;height: 194px;}
+.guinea-pig {background-position: -260px -970px;width: 260px;height: 194px;}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), 
+only screen and (min-device-pixel-ratio: 2) {
+.category-img { 
+	background-image: url(../../images/category-images@2x.jpg);
+	}
+}
+
+/* end category images */
 
 
 
@@ -476,6 +494,14 @@ ul.img-thumbs a {
 
 .fb-padding {margin-top: 20px;}
 
+
+
+
+
+
+
+
+/* media queries */
 
 @media (max-width:767px) {
 	.navbar-brand {
@@ -577,5 +603,7 @@ ul.img-thumbs a {
 		background-position: right;
 	}
 }
+
+
 
 
