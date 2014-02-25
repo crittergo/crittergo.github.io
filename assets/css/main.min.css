@@ -436,8 +436,19 @@ ul.img-thumbs a {
 
 .chinchilla {background-position: 0 -780px;width: 260px;height: 194px;}
 .chipmunk {background-position: -260px -585px;width: 260px;height: 194px;}
+.ferret {background-position: -260px -780px;width: 260px;height: 194px;}
 .gerbil {background-position: -260px -390px;width: 260px;height: 194px;}
 .guinea-pig {background-position: -260px -975px;width: 260px;height: 194px;}
+.hamster {background-position: -260px -1170px;width: 260px;height: 194px;}
+.hedgehog {background-position: 0 -1170px;width: 260px;height: 194px;}
+.mouse {background-position: -520px -1170px;width: 260px;height: 194px;}
+.possum-short-tailed {background-position: -260px -2145px;width: 260px;height: 194px;}
+.prairie-dog {background-position: -520px -1950px;width: 260px;height: 194px;}
+.rabbit {background-position: 0 -975px;width: 260px;height: 194px;}
+.raccoon {background-position: 0 -585px;width: 260px;height: 194px;}
+.rat {background-position: -520px -1170px;width: 260px;height: 194px;}
+.skinny-pig {background-position: -260px -975px;width: 260px;height: 194px;}
+.sugar-glider {background-position: 0 -1560px;width: 260px;height: 194px;}
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), 
 only screen and (min-device-pixel-ratio: 2) {
