@@ -424,6 +424,9 @@ ul.img-thumbs a {
 
 /* end box overlay */
 
+.col-md-4 {
+	margin-bottom: 20px;
+}
 
 /* category images */
 .category-img { 
@@ -431,8 +434,10 @@ ul.img-thumbs a {
 	background-size: 780px 2374px;
 }
 
+.chinchilla {background-position: 0 -780px;width: 260px;height: 194px;}
+.chipmunk {background-position: -260px -585px;width: 260px;height: 194px;}
 .gerbil {background-position: -260px -390px;width: 260px;height: 194px;}
-.guinea-pig {background-position: -260px -970px;width: 260px;height: 194px;}
+.guinea-pig {background-position: -260px -975px;width: 260px;height: 194px;}
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), 
 only screen and (min-device-pixel-ratio: 2) {
