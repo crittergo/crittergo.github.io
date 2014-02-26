@@ -8,6 +8,7 @@ comments: true
 share: true
 author: kyle
 ---
+
 <img src="/images/alpine-newt-1.jpg" class="img-post">
 
 Alpine Newts are a cousin to salamanders and have unique care requirements. They are one of the most often purchased species of newts, and they are home to the western European forests, which have allowed them to withstand cooler temperatures than most other species. If cared for properly, you can expect your friend to grow to five inches in length, and to live for between fifteen and twenty years.
